@@ -10,6 +10,7 @@ Oiii eu sou a Malu Zarov 🏳️‍⚧️,  Estudante de Analise Desenvolvimento
  
   <img align="center" alt="Malu-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Malu-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="right" alt="Malu-pic" height="150" style="border-radius:50px;" src="https://media.discordapp.net/attachments/962525813121613834/962547960514773002/338224_eZRb5LHN.png">
  
 </div>
   
